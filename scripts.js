@@ -1,3 +1,8 @@
+var welcome = alert('Welcome to my website')
+
+
+
+
 google.setOnLoadCallback(drawStuff);
 
 function drawStuff() {
